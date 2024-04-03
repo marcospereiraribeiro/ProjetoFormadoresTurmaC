@@ -32,5 +32,27 @@ width: 35%;
 
 .cabecalho-titulo{
     padding: 24px 10px;
+}
+.escola-imagem{
+    width: 40%;
+    display: flex;
+}
+.escola{
+    background-image: linear-gradient(#10D9FA,#94B6BB);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+.escola-texto-um{
+    padding: 24px 0;
+
+}
+.escola-div-conteudo{
+    width: 35%;
 }
